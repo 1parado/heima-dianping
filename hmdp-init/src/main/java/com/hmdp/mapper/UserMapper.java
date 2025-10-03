@@ -13,4 +13,6 @@ import com.hmdp.entity.User;
  */
 public interface UserMapper extends BaseMapper<User> {
 
+
+
 }
